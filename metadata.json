@@ -1,0 +1,6 @@
+{
+  "name": "ScamShield AI",
+  "description": "Next-generation AI cybersecurity platform for instant website threat analysis, phishing detection, and domain risk assessment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
